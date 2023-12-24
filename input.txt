@@ -1,0 +1,3 @@
+Store 4 6
+revoke 3
+revoke 2
